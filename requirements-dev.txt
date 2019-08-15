@@ -4,3 +4,4 @@ jupyter_nbextensions_configurator
 jupyter_contrib_nbextensions
 yapf
 isort
+nbdime
