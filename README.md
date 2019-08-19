@@ -12,6 +12,39 @@ Step-by-step tutorials PG algorithms
 8. DDPG from Demonstration (DDPGfD)
 9. Behavior Cloning (with DDPG)
 
+## Environment
+### Pendulum-v0
+<img src="https://media.giphy.com/media/gHJavzDcIQ0Z8WCk97/giphy.gif" width="200" height="140"/>
+
+Reference: [OpenAI gym Pendulum-v0](https://github.com/openai/gym/wiki/Pendulum-v0)
+
+### Observation
+
+Type: Box(3)
+
+Num | Observation  | Min | Max  
+----|--------------|-----|----   
+0   | cos(theta)   | -1.0| 1.0
+1   | sin(theta)   | -1.0| 1.0
+2   | theta dot    | -8.0| 8.0
+
+
+### Actions
+
+Type: Box(1)
+
+Num | Action  | Min | Max  
+----|--------------|-----|----   
+0   | Joint effort | -2.0| 2.0
+
+### Reward
+
+The precise equation for reward:
+
+    -(theta^2 + 0.1*theta_dt^2 + 0.001*action^2)
+
+Theta is normalized between -pi and pi. Therefore, the lowest cost is `-(pi^2 + 0.1*8^2 + 0.001*2^2) = -16.2736044`, and the highest cost is `0`. In essence, the goal is to remain at zero angle (vertical), with the least rotational velocity, and the least effort. Max steps per an episode is 200 steps.
+
 ## Installation
 
 
