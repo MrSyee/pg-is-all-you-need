@@ -105,8 +105,3 @@ venv.bak/
 
 # JSAnimation
 None*.png
-
-# demo
-demo/*
-!demo/demo.pkl
-
