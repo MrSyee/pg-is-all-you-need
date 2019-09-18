@@ -10,7 +10,7 @@ Step-by-step tutorials PG algorithms
 6. Twin Delayed Deep Deterministic Policy Gradient Algorithm (TD3)
 7. Soft Actor-Critic (SAC)
 8. DDPG from Demonstration (DDPGfD)
-9. Behavior Cloning (with DDPG)
+9. Behavior Cloning (with DDPG, without HER)
 
 ## Environment
 ### Pendulum-v0
