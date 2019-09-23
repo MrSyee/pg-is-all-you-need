@@ -3,13 +3,13 @@ Step-by-step tutorials PG algorithms
 
 ## Contents
 0. REINFORCE
-1. Advantage Actor-Critic (A2C)
-2. Proximal Policy Optimization Algorithms (PPO)
-3. Deep Deterministic Policy Gradient (DDPG)
-4. Twin Delayed Deep Deterministic Policy Gradient Algorithm (TD3)
-5. Soft Actor-Critic (SAC)
-6. DDPG from Demonstration (DDPGfD)
-7. Behavior Cloning (with DDPG)
+1. Advantage Actor-Critic (A2C) [NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb) [Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)
+2. Proximal Policy Optimization Algorithms (PPO) [NBViewer]() [Colab]()
+3. Deep Deterministic Policy Gradient (DDPG) [NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb) [Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb)
+4. Twin Delayed Deep Deterministic Policy Gradient Algorithm (TD3) [NBViewer]() [Colab]()
+5. Soft Actor-Critic (SAC) [NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/05.SAC.ipynb) [Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/05.SAC.ipynb)
+6. DDPG from Demonstration (DDPGfD) [NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/06.DDPGfD.ipynb) [Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/06.DDPGfD.ipynb)
+7. Behavior Cloning (with DDPG) [NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/07.BC.ipynb) [Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/07.BC.ipynb)
 
 ## Environment
 ### Pendulum-v0
