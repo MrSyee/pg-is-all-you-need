@@ -56,7 +56,7 @@ Secondly, install packages required to execute the code. Just type:
 make dep
 ```
 ## Development
-Install packages required to development the code:
+Install packages required to develop the code:
 ```
 make dev
 ```
