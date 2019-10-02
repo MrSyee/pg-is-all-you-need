@@ -1,9 +1,10 @@
-# PG is all you need!
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-Step-by-step tutorials PG algorithms
+# PG is all you need!
+This is a step-by-step PG algorithm tutorials from A2C to SAC. In addtion, it contains PG algorithms using human demonstrations (like DDPGfD, BC) for treating real applications with a sparse reward. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
+
+Please feel free to open an issue or a pull-request if you have any idea to make it better. :)
 
 ## Contents
-0. REINFORCE [NBViewer] [Colab]
 1. Advantage Actor-Critic (A2C) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)]
 2. Proximal Policy Optimization Algorithms (PPO) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)]
 3. Deep Deterministic Policy Gradient (DDPG) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb)]
@@ -45,6 +46,14 @@ The precise equation for reward:
 
 Theta is normalized between -pi and pi. Therefore, the lowest cost is `-(pi^2 + 0.1*8^2 + 0.001*2^2) = -16.2736044`, and the highest cost is `0`. In essence, the goal is to remain at zero angle (vertical), with the least rotational velocity, and the least effort. Max steps per an episode is 200 steps.
 
+## Prerequisites
+
+This repository is tested on [Anaconda](https://www.anaconda.com/distribution/) virtual environment with python 3.6.1+
+```
+$ conda create -n rainbow_is_all_you_need python=3.6.1
+$ conda activate rainbow_is_all_you_need
+```
+
 ## Installation
 First, clone the repository.
 ```
@@ -83,6 +92,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/kyunghwan-kim-0739a314a/"><img src="https://avatars3.githubusercontent.com/u/17582508?v=4" width="100px;" alt="Kyunghwan Kim"/><br /><sub><b>Kyunghwan Kim</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Documentation">📖</a></td>
+  </tr>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/curt-park/"><img src="https://avatars3.githubusercontent.com/u/14961526?v=4" width="100px;" alt="Jinwoo Park (Curt)"/><br /><sub><b>Jinwoo Park (Curt)</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Documentation">📖</a></td>
   </tr>
