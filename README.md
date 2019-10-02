@@ -1,9 +1,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 # PG is all you need!
-Step-by-step tutorials PG algorithms
+This is a step-by-step PG algorithm tutorials from A2C to SAC. In addtion, it contains PG algorithms using human demonstrations (like DDPGfD, BC) for treating real applications with a sparse reward. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
+
+Please feel free to open an issue or a pull-request if you have any idea to make it better. :)
 
 ## Contents
-0. REINFORCE [NBViewer] [Colab]
 1. Advantage Actor-Critic (A2C) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)]
 2. Proximal Policy Optimization Algorithms (PPO) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)]
 3. Deep Deterministic Policy Gradient (DDPG) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb)]
@@ -44,6 +45,14 @@ The precise equation for reward:
     -(theta^2 + 0.1*theta_dt^2 + 0.001*action^2)
 
 Theta is normalized between -pi and pi. Therefore, the lowest cost is `-(pi^2 + 0.1*8^2 + 0.001*2^2) = -16.2736044`, and the highest cost is `0`. In essence, the goal is to remain at zero angle (vertical), with the least rotational velocity, and the least effort. Max steps per an episode is 200 steps.
+
+## Prerequisites
+
+This repository is tested on [Anaconda](https://www.anaconda.com/distribution/) virtual environment with python 3.6.1+
+```
+$ conda create -n rainbow_is_all_you_need python=3.6.1
+$ conda activate rainbow_is_all_you_need
+```
 
 ## Installation
 First, clone the repository.
