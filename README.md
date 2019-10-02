@@ -94,8 +94,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/kyunghwan-kim-0739a314a/"><img src="https://avatars3.githubusercontent.com/u/17582508?v=4" width="100px;" alt="Kyunghwan Kim"/><br /><sub><b>Kyunghwan Kim</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.linkedin.com/in/curt-park/"><img src="https://avatars3.githubusercontent.com/u/14961526?v=4" width="100px;" alt="Jinwoo Park (Curt)"/><br /><sub><b>Jinwoo Park (Curt)</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Documentation">📖</a></td>
   </tr>
 </table>
