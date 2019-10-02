@@ -1,4 +1,5 @@
 # PG is all you need!
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 Step-by-step tutorials PG algorithms
 
 ## Contents
@@ -74,3 +75,19 @@ nbdiff-web
 5. [T.  Haarnoja et al., "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor." arXiv preprint arXiv:1801.01290, 2018.](https://arxiv.org/pdf/1801.01290.pdf)
 6. [M. Vecerik et al., "Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards."arXiv preprint arXiv:1707.08817, 2017](https://arxiv.org/pdf/1707.08817.pdf)
 7. [A. Nair et al., "Overcoming Exploration in Reinforcement Learning with Demonstrations." arXiv preprint arXiv:1709.10089, 2017.](https://arxiv.org/pdf/1709.10089.pdf)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://mclearninglab.tistory.com"><img src="https://avatars0.githubusercontent.com/u/43226417?v=4" width="100px;" alt="Mincheol Kim"/><br /><sub><b>Mincheol Kim</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=mclearning2" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=mclearning2" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
