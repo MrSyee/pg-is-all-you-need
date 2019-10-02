@@ -6,6 +6,26 @@
   "commit": false,
   "contributors": [
     {
+      "login": "MrSyee",
+      "name": "Kyunghwan Kim",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17582508?v=4",
+      "profile": "https://www.linkedin.com/in/kyunghwan-kim-0739a314a/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Curt-Park",
+      "name": "Jinwoo Park (Curt)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14961526?v=4",
+      "profile": "https://www.linkedin.com/in/curt-park/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
       "login": "mclearning2",
       "name": "Mincheol Kim",
       "avatar_url": "https://avatars0.githubusercontent.com/u/43226417?v=4",
@@ -14,7 +34,7 @@
         "code",
         "doc"
       ]
-    }
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "pg-is-all-you-need",
