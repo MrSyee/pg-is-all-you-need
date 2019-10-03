@@ -1,6 +1,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 # PG is all you need!
-This is a step-by-step PG algorithm tutorials from A2C to SAC. In addtion, it contains PG algorithms using human demonstrations (like DDPGfD, BC) for treating real applications with a sparse reward. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
+This is a step-by-step tutorial for Policy Gradient algorithms from A2C to SAC, including learning acceleration methods using demonstrations for treating real applications with sparse rewards. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
 
 Please feel free to open an issue or a pull-request if you have any idea to make it better. :)
 
