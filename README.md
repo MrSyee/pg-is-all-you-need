@@ -76,7 +76,7 @@ nbdiff-web
 ```
 
 ## Related Papers
-0. R. Sutton and A. Barto, Reinforcement Learning: An Introduction, 2nd ed., MIT Press, 2018.
+0. [R. Sutton and A. Barto, Reinforcement Learning: An Introduction, 2nd ed., MIT Press, 2018.](http://incompleteideas.net/book/the-book-2nd.html)
 1. [R. J. Williams et al., "Simple statistical gradient-following algorithms for connectionist reinforcement learning.", Machine Learning, 8(3), 229-256, 1992.](https://link.springer.com/content/pdf/10.1007/BF00992696.pdf)
 2. [M. Babaeizadeh et al., "Reinforcement learning through asynchronous advantage actor-critic on a gpu.", International Conference on Learning Representations, 2017.](https://arxiv.org/pdf/1611.06256)
 3. [J. Schulman et al., "Proximal Policy Optimization Algorithms." arXiv preprint arXiv:1707.06347, 2017.](https://arxiv.org/abs/1707.06347.pdf)
