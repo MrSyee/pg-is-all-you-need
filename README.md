@@ -4,6 +4,8 @@ This is a step-by-step tutorial for Policy Gradient algorithms from A2C to SAC, 
 
 Please feel free to open an issue or a pull-request if you have any idea to make it better. :)
 
+> If you want a tutorial for DQN series, please see [Rainbow is All You Need](https://github.com/Curt-Park/rainbow-is-all-you-need).
+
 ## Contents
 1. Advantage Actor-Critic (A2C) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/01.A2C.ipynb)]
 2. Proximal Policy Optimization Algorithms (PPO) [[NBViewer](https://nbviewer.jupyter.org/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)] [[Colab](https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/02.PPO.ipynb)]
