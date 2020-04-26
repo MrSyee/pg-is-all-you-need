@@ -1,6 +1,6 @@
 # PG is all you need!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a step-by-step tutorial for Policy Gradient algorithms from A2C to SAC, including learning acceleration methods using demonstrations for treating real applications with sparse rewards. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
 
@@ -97,6 +97,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MrSyee/"><img src="https://avatars3.githubusercontent.com/u/17582508?v=4" width="100px;" alt=""/><br /><sub><b>Kyunghwan Kim</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/curt-park/"><img src="https://avatars3.githubusercontent.com/u/14961526?v=4" width="100px;" alt=""/><br /><sub><b>Jinwoo Park (Curt)</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=Curt-Park" title="Documentation">📖</a></td>
   </tr>
 </table>
 
