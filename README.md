@@ -1,4 +1,7 @@
 # PG is all you need!
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a step-by-step tutorial for Policy Gradient algorithms from A2C to SAC, including learning acceleration methods using demonstrations for treating real applications with sparse rewards. Every chapter contains both of theoretical backgrounds and object-oriented implementation. Just pick any topic in which you are interested, and learn! You can execute them right away with Colab even on your smartphone.
 
 Please feel free to open an issue or a pull-request if you have any idea to make it better. :)
@@ -88,3 +91,15 @@ nbdiff-web
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MrSyee/"><img src="https://avatars3.githubusercontent.com/u/17582508?v=4" width="100px;" alt=""/><br /><sub><b>Kyunghwan Kim</b></sub></a><br /><a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Code">💻</a> <a href="https://github.com/MrSyee/pg-is-all-you-need/commits?author=MrSyee" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
