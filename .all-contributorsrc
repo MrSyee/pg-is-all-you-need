@@ -34,6 +34,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "fbarez",
+      "name": "Fazl",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/37307369?v=4",
+      "profile": "https://fbarez.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
