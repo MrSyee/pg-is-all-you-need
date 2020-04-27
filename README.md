@@ -54,7 +54,7 @@ Theta is normalized between -pi and pi. Therefore, the lowest cost is `-(pi^2 + 
 
 This repository is tested on [Anaconda](https://www.anaconda.com/distribution/) virtual environment with python 3.6.1+
 ```
-$ conda create -n pg-is-all-you-need python=3.6.1
+$ conda create -n pg-is-all-you-need python=3.6.9
 $ conda activate pg-is-all-you-need
 ```
 

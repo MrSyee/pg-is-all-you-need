@@ -105,3 +105,6 @@ venv.bak/
 
 # JSAnimation
 None*.png
+
+# gym monitor wrapper
+videos
