@@ -1,7 +1,7 @@
 matplotlib==3.0.2
 JSAnimation==0.1
 numpy==1.18.0
-torch==1.6.0
+torch==2.2.0
 gym
 typing
 jupyter
