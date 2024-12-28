@@ -6,7 +6,7 @@ from typing import Callable
 
 
 class SegmentTree:
-    """ Create SegmentTree.
+    """Create SegmentTree.
     Taken from OpenAI baselines github repository:
     https://github.com/openai/baselines/blob/master/baselines/common/segment_tree.py
     Attributes:
@@ -73,7 +73,7 @@ class SegmentTree:
 
 
 class SumSegmentTree(SegmentTree):
-    """ Create SumSegmentTree.
+    """Create SumSegmentTree.
     Taken from OpenAI baselines github repository:
     https://github.com/openai/baselines/blob/master/baselines/common/segment_tree.py
     """
@@ -110,7 +110,7 @@ class SumSegmentTree(SegmentTree):
 
 
 class MinSegmentTree(SegmentTree):
-    """ Create SegmentTree.
+    """Create SegmentTree.
     Taken from OpenAI baselines github repository:
     https://github.com/openai/baselines/blob/master/baselines/common/segment_tree.py
     """
