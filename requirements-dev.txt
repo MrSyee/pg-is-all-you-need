@@ -1,7 +1,3 @@
 # use nbexttensions: code prettify, isort formatter
-
-jupyter_nbextensions_configurator
-jupyter_contrib_nbextensions
-yapf
-isort
-nbdime
+black[ jupyter ]==24.10.0
+isort==5.13.2

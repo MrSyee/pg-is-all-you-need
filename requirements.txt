@@ -1,7 +1,5 @@
-matplotlib==3.0.2
-JSAnimation==0.1
-numpy==1.18.0
-torch==1.6.0
-gym
-typing
+torch==2.5.1
+numpy==1.26.4
+gymnasium==1.0.0
+matplotlib==3.8.0
 jupyter
